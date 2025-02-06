@@ -8,23 +8,15 @@
 
 ## rag
 
-基于qwen的rag demo
+基于openai的rag demo
 
 ## SFT
 
-基于qwen的sft demo
-
-## Lora微调
-
-基于qwen的Lora微调 demo
+基于qwen的sft、Lora微调 demo
 
 ## DPO
 
 基于qwen的DPO demo
-
-## PPO
-
-PPO源码学习分析
 
 ## 其它
 未完待续
