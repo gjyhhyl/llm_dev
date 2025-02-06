@@ -4,11 +4,11 @@
 
 ## agent
 
-基于openai的agent demo
+基于gpt的agent demo
 
 ## rag
 
-基于openai的rag demo
+基于gpt的rag demo
 
 ## SFT
 
